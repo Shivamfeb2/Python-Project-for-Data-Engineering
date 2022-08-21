@@ -1,0 +1,285 @@
+#1
+double(283,2)
+  "" Our approach Sustainable solutions,48,UN Global Compact,,90
+  This Sustainability Report describes UNEP FI Principles Message from our Group CEO 2 Assessing and integrating,,,,
+  ""  sustainability risk,56,for Sustainable Insurance,,91
+  Zurich’s progress toward our ambition About Zurich 3 ,,,,
+  ""  Sustainable products and services,57,Data table,,92
+  to be one of the most responsible Our business model 4 ,,,,
+  ""  Confidence in a digital society,58,Independent Assurance,,
+  and impactful businesses in the world. 2021 headlines 5 ,,Report on Zurich’s,,
+  We aim to create sustainable value for Ratings and indices 6 Our employees,,Sustainability reporting 2021,,93
+  "our customers  employees  shareholders",,Work sustainability,62,Disclaimer and cautionary statement,,97
+  and the communities where we live  Interview with Group Chief,,,,
+  and work. This report complements the  Transformation Officer,64,,,
+  integrated sustainability disclosure (ISD) Q&A with Our promise to employees,65,Nurturing,,
+  in the Annual Report 2021. Linda Freiner "Diversity, Equity, Inclusion  new talentand Belonging",66,,76,
+  ""  Our planet,,,,
+  "" 7 Nurturing talent,68,,,
+  ""  Our 1.5°C future 24,,,,
+  ""  Learning & development,70,,,
+  "" Interview with Group Head Sustainable operations 28,,,,
+  ""  Health & safety in the workplace,72,,,
+  "" of Sustainability 7 Responsible investment 37,,,,
+  ""  Employee wellbeing,74,,,
+  "" Key trends informing our strategic ,,,,
+  Visit our Group website to access further reports and information: priorities 8 Employee engagement,75,,,
+  www.zurich.com Materiality 9 Next generation employment,76,,,
+  "" Our sustainability strategy 11 ,,,,
+  ""  Our partners,,,,
+  "" Our SDG contribution 12 ,,,,
+  ""  Putting down,,,,
+  ""  Our sustainable sourcing program,79,,,
+  "" Engaging our stakeholders 14 88 roots in Brazil,,,,
+  ""  Z Zurich Foundation,82,,,
+  "" Governance structure 18 ,,,,
+  ""  The Zurich Flood,,,,
+  "" Our Code of Conduct and approach ,,,,
+  ""  Resilience Alliance,87,,,
+  "" to Anti-Bribery and Anti-Corruption 20 ,,,,
+  Annual Report 2021 Z Zurich Foundation Sustainability website 2021 State of the art Respecting human rights 21 Zurich Forest Project,88,,,
+  Read more about our Group Report 2020 Read more about Zurich’s Our COP26 statue (front  ,,,,
+  "strategy  operations  Read more about the work of sustainability strategy, cover image) is sculpted",Being a responsible taxpayer 22,,,,,
+  integrated sustainability the Z Zurich Foundation. commitment and actions. from material made with  ,,,,
+  disclosures and performance. Available online at: Available online at: captured carbon.  ,,,,
+  Available online at: www.zurich.foundation/en/ www.zurich.com/en/ Find out more in our  ,,,,
+  www.zurich.com/en/investor- about-us/publications sustainability Annual Report 2021:  ,,,,
+  relations/results-and-reports page 26  ,,,,
+  "" Our materiality analysis ,,,,,,1
+  Identifying "We want to work together with our employees  customers, investors and communities to create a brighter future. To do this, it is necessary to involve",,,,,,Governance,Climate changeFair and 3
+  "" these stakeholder groups in our decision-making ,,,,,,inclusive
+  "" process – and to figure out what issues matter most ,,,,Ethics and,,workplace
+  "" "to them. In 2018  Zurich carried out a materiality",,,,,compliance,,
+  what "assessment to understand which sustainability-related issues are most relevant to internal and external stakeholders. The assessment  which included both quantitative and qualitative analyses, was built on our",,,,Transparency,2,Natural disasters1,
+  "" "internal risk expertise  engagement with 10 different",,,,,,,
+  ""  ,,,,Data privacy,,
+  matters . "stakeholder groups  as well as insights generated from big data tools. As a result, Zurich identified and prioritized 21 sustainability issues. Zurich also identified three strategic sustainability pillars: our 1.5°C future, confidence in a digital society and work sustainability.",,,,,and security,Wellbeing Responsible and health,2 Innovation and digitalization
+  ""  ,,,,,investment,
+  "" As the relevance of these issues fluctuates over ,,,,,,
+  "" "time  Zurich undertook a qualitative review of the",,,,,,,
+  Zurich’s ‘materiality assessment process’ is 21 sustainability issues in 2021. By consulting with ,,,,,,
+  "" internal sustainability experts and members of our ,,,,,,
+  how we determine what is most relevant to our  ,,,,,,
+  ""  ,,Responsible,,,3,Workforce
+  "" Sustainability Leadership Council from across the Waste,,supply chain,,,,development
+  business. It helps us to evaluate which relevant "Group  we identified issues that have significantly",management,,,,,,
+  sustainability issues are most critical for Zurich’s increased in relevance during the past three years. ,,,Local community,,,
+  long-term success. "Climate change  data privacy & security, and fair",,,,support,,,
+  "" "and inclusive workplace are three topics that  while",,Water,,,Product,,
+  "" "already highly material in 2018  have grown in",,,,,responsibility,,
+  "" importance due to events of the past three years. ,,,Human rights,,,
+  "" "Product responsibility  responsible supply chain and",,,,,,,
+  "" "wellbeing and health  meanwhile, were deemed to",,,,Energy efficiency,,,
+  "" be less material in the 2018 assessment but have ,Pollution,,,,,
+  "" significantly increased in relevance since then. ,,,,,,
+  "" "In general  the concept of interconnectivity is",,,,,,,
+  "" changing the picture. ,,Natural capital,,,,
+  "" Absolute carbon emissions coming from our own operations 3 ,,,,
+  A culture of sustainability  ,,,,
+  ""  ,,2020 change,Target,Target
+  "Our own operational practices serve as a springboard for our employees  so together  we can amplify",Unit of,2019,,relative to,reduction,reduction
+  "" Key performance indicator measurement (base year) 3,2020,base year,2025,2029
+  "our impact. We look for ways to build awareness about our own sustainability activities  and work to" ,,,,,
+  "help our employees feel connected to them. We focus on tangible examples  such as eliminating" Absolute carbon emissions CO2e,"164,346","66,708",(59%),50%,70%
+  "single-use plastics in our offices  to help our employees feel confident and empowered to embrace" Absolute reduction in all operational emissions (metric tons),,,,,
+  "the sustainability agenda in their daily lives  including at home. In September 2021  we announced five",Scope 1 + 2 emissions CO2e,"49,042","27,714",(43%),55%,80%
+  "aspirational goals to complement  and in some cases accelerate  the ongoing effort to meet our operational",Reduction in emissions from the vehicle fleet and onsite heating as (metric tons),,,,,
+  sustainability targets. "well as from purchased electricity  heat and steam (e.g., district heating)",,,,,
+  "" Scope 3 emissions CO2e "115,304","38,994",(66%),50%,65%
+  ensure sustainable behaviors are embedded  Sustainability and Health  Diana Ponzielli
+  "into everything we do. At Zurich  we have taken" Earth Hour is one of the world’s largest grassroots movements for the,& Safety Manager for Corporate  Internal Communications
+  ""  "Real Estate & Logistic  & Sustainability Manager,"
+  a grassroots approach to our engagement "environment. Held every year on the last Saturday in March  millions of",Services – Switzerland Zurich Argentina
+  strategy to educate and cultivate awareness that people across the globe switch off their lights to show support for our 
+  empowers our employees to take action. "planet. For many years  Zurich has proudly participated in this movement.",I use Earth Hour as an opportunity to Earth Hour brought together thousands
+  "" "Although circumstances were different in 2021 due to the pandemic  we still",
+  "In partnership with our employees  we deliver" used the opportunity to make an impact by kicking off a week-long global,raise awareness about our workplaces of people and companies in Argentina
+  relevant messaging through interactive and "campaign with virtual activities  including a video challenge on Zurich’s",– and way of life in general – among my to build awareness about climate change.
+  engaging activities. These span everything from internal collaboration tool. Employees could post videos of themselves 
+  "Earth Hour and a dedicated Climate Month  to" pledging to ‘go dark’ for one hour and challenge their colleagues to do the,"colleagues, friends and all those who want In Zurich Argentina, the lights in all our"
+  getting involved in entrepreneurial programs. same. The winner received a cash prize donated in their name to a charity to pay attention to sustainability. The work
+  Whether it’s participating to protect our planet and "buildings were turned off and all digital of their choice  provided by the Z Zurich Foundation.",
+  "mitigate climate change  or knowledge sharing to" ,we’ve been doing for a long time now in communications were made in dark
+  "prepare for the digital transformation of insurance " "During the main event on March 27, at 8:30 pm, employees from more",our Zürich-based offices – the photovoltaic
+  "with the power of many  we have the knowledge ","than 30 countries and territories across the globe, took part in this critical",colors to optimize the use of white pixels
+  "skills  and passion to create real impact." movement in support of our planet.,"panels and vertical garden on the façade, and reduce the battery consumption"
+  "" Impact investing is our way Progress and key developments,"In 2021, we evaluated infrastructure private equity,"
+  Focus on "of investing in good causes Impact investments are investment opportunities that allow us to intentionally target a specific and measurable social or environmental impact. They are also profitable  meaning that they generate","We are very proud to be a member of the Operating Principles for Impact Management (OPIM) and have a verified impact investing approach. Zurich is a founding member of these Principles, the market- leading approach to manage impact investments.","as part of our effort to evaluate new prospective opportunities across asset classes to broaden our approach and increase investment volume. Being an experienced investor in lending private debt to infrastructure projects, we defined a similar"
+  ""  ,approach to impact assets in private equity. The firs
+  "" a financial return adequate to compensate the The Impact Principles provide a framework for,
+  ""  ,investments are expected to take place in 2022.
+  impact . "risk. Zurich evaluates impact investments within the context of specific asset classes and creates dedicated strategies for impact investments for each of them. Zurich is committed to helping to avoid 5 million metric tons of CO2-equivalent emissions per year  and separately, make a positive contribution to","investors so that impact considerations are purposefully integrated throughout the investment life cycle. As a signatory to the Principles, we have externally verified our approach to impact investing, such as how we define our objectives, establish our contribution to the achieved impact, assess",We continue to grow our global impact investment portfolio. 2021 led to a further substantial increase in size and we continue to work toward our impact investment target to avoid 5 million tons of CO2-equivalent emissions and improve the lives of
+  Providing more sustainable solutions to our customers is at the heart of our We continue to evolve our customer experience by listening and acting Revenues from sustainable environmental solutions
+  business strategy. We aim to support them with insurance and risk management on customer feedback through our net promoter system (NPS) programs. 
+  "solutions for the new technologies  business models and approaches needed to We interviewed around 1 million customers in 2021 across our business and took" Solutions related to technologies and/ Examples include:
+  achieve a climate-neutral and inclusive economy. action based on their feedback. Actions ranged from small process optimizations or activities that have an impact on – Insurance coverage for
+  "" "reducing greenhouse gases  preserve electric vehicles."
+  "In 2021  we developed a new quantitative approach to calculate the Group-wide to more sizable measures  such as collaborating with leading tech firms to",or enhance biodiversity as well as
+  "revenues1 from products that comply with our definition of sustainable solutions. mitigation solutions.Our first analysis revealed that gross written premiums and policy fees from co-create new technology solutions to deliver a more frictionless customer experience. One example is the collaboration with Sprout-Ai in the UK  which" – Insurance coverage for carbon enable the responsible use of natural
+  sustainable solutions (based on approved products related to our own definition) has cut property claim settlement decisions to a few hours and gives customers resources. These solutions aim to – Risk prevention services that
+  "represent approximately USD 289 million for 2021. We refer to insurance policies  additional clarity on the outcome of the claim. The combination of these small and" mitigate and support resilience against the adverse impact of environment-contribute to more customer
+  "add-on coverages  investment products and advisory services designed or large actions contributed to us recording record levels of customer satisfaction ",awareness and resilience to the
+  adapted to support activities that generate positive environmental or social achieving a 3.7-point increase in our Transactional NPS40 score in 2021. related risks on our customers. adverse impacts of climate change
+  "impacts and contribute to mitigating climate risks. Across all business units " "e.g., flood resilience."
+  a number of different products were identified. Fair and transparent advice and engagements Revenues from sustainable social solutions
+  Case study Utilizing the work of the CRO Forum on carbon The pioneering achievements of the project group,Case study,The students involved in the CEMS project created
+  "" "emission measurement  the team came together to",will substantially contribute to Zurich’s active role as,,a framework based on environmental data to
+  Collaborative research to power "develop  visualize and apply a consistent approach",a founding member of the UN-convened Net-Zero,Benchmarking environmental,understand how companies performed relative
+  the sustainability of our customers "for carbon intensity measurement  based on an","Insurance Alliance (NZIA), and its work in the working",performance of customers –,to their individual industries. As a signatory of the
+  Carbon intensity analysis of integrated data model and leveraging both internal group launched by The Partnership for Carbon,University of St. Gallen,UN Business Pledge to limit temperature rise to
+  commercial underwriting portfolios and external data sources. Accounting Financials (PCAF) in collaboration,"In 2021, Zurich, a CEMS (Global Alliance in","1.5°C, Zurich is committed to taking a proactive"
+  ""  with the NZIA. This working group will develop,,role in enabling transition to a net-zero economy.
+  To better understand the carbon footprint of our Pilots in various countries have introduced the ,"Management Education) corporate partner, and",
+  ""  the first global standard to measure and disclose,,
+  Commercial Insurance customers and support methodology and concept to the wider Zurich ,students from the University of St. Gallen worked,This project has provided us a way to evaluate how
+  ""  greenhouse gas (GHG) emissions associated to,,"sustainable a company is by considering carbon,"
+  "them in their transition journey  Zurich formed" "Group, detailing and launching the global approach.",,together to create a framework to assess and,
+  ""  insurance and reinsurance underwriting portfolios.,,
+  a dedicated project group from across the Taking advantage of a truly transnational and ,monitor the sustainability performance and,water and waste emissions.
+  "and  due to its lighter weight  it reduces concrete foundational requirements,",Mass timber offers the dual benefits of a,"services. It is, therefore, exposed to nature loss.1",Biodiversity loss and climate
+  further lowering a building’s carbon footprint. When the wood for the timber – a sustainable and durable building material. Human interactions with nature are negatively,change are twin crises
+  "renewable resource – comes from a sustainably managed forest  it naturally" ,impacting biodiversity and this affects nature’s,
+  "sequesters carbon  storing it in the building for decades. By underwriting" We expect to see strong momentum,capacity to continue providing the services on,we must tackle together
+  "this more sustainable way of building  Zurich is helping its construction" ,which the economy depends.,
+  customers achieve significant carbon reductions while creating aesthetically behind its adoption over the next several ,to protect our planet
+  ""  "In 2021, in line with our efforts to understand",
+  pleasing buildings. years. We’re aligning our offerings to ensure "as many aspects of sustainability as possible,",and the global economy.
+  "" we can enable our clients to integrate it into the Commercial Insurance sustainability team,Analyzing the impacts
+  ""  researched the potential effects of biodiversity,
+  "" their construction projects. loss on several key industries and the potential,and dependencies of key
+  ""  impact on our commercial customers. The analysis,
+  ""  "considered how certain industries impact, and",industries on nature
+  ""  "are dependent on, biodiversity as well as the",is an important first step
+  ""  physical and transition risks of biodiversity loss.,
+  Case study  This work will allow Zurich to better assess its own,to mitigate the effects
+  ""  "exposure, and that of its customers, to biodiversity",
+  Restoring damaged surfaces in the home  loss and the ways the Group can help customers,of biodiversity loss.
+  to reduce waste and materials sent to landfill Claire Varney better manage these risks.,
+  "" Property Technical ,I’ve found working with
+  "Surface damage in the home  such as a chip  crack, scratch, or scorch mark,",Claims Manager,,
+  can be quite minor. Common practice was to replace the entire damaged Zurich UK ,colleagues across the
+  QA with "What changes have you witnessed  in this space since joining Zurich? Over the past 18 months  the momentum and volume of requests and focus on sustainability has increased",,,What does your work for the  Net-Zero Insurance Alliance involve  and what hurdles are insurers facing? Zurich is a founding member of the Net-Zero,,,,"How, for example, do you calculate carbon intensity associated with different types of insurance? Or take into account differences of market mix and customer mix among members of the NZIA? The other obstacle is making sure we have access to internal and"
+  "" enormously. Companies and governments have ,,Insurance Alliance (NZIA). We’ve made a commitment,,,,external data on emissions and other metrics.
+  Gabrielle Durisch "made a lot of commitments  now we need to reach them. This is something we can only achieve together How does Zurich’s membership  with our customers and groups like the Net-Zero Insurance Alliance. Each one of us can contribute so",,,"to work together with our peers to develop a methodology to measure the carbon intensity of an underwriting portfolio, thus enabling insurers to independently set targets to bring it to net zero. It’s",,,,in the Net-Zero Insurance Alliance
+  The five key moments 1 2,3,4,5
+  that matter  ,,,
+  "" My first year My growth,My contribution,My wellbeing,My work environment
+  Moments that matter are  ,,,
+  "" We aim to support We aim to give employees,We reward employees,We strive to provide a,We focus on providing
+  aspects of a person’s  ,,,
+  "" "employees  be it in their first",career choices that match,for their good work and,safe working environment,inclusive and flexible options
+  working life that have a year with our organization "their talents and ambitions,","behaviors, for positively",that supports health and,to our employees so they
+  significant influence on or their first year in a new and meet the market needs,"impacting one another,",wellbeing. This includes,can thrive and do their
+  their experience with Zurich. "role  by feeling welcomed,",of today and tomorrow.,"customers, communities, and",offering a broad range,best work. This includes
+  We have identified goals "included  and inspired as",This includes providing,"sustainability, supported by",of health and wellbeing,offering flexible work options
+  for each: part of a diverse team of "guidance, support, and",continuous conversations,services in support of,"along with the technology,"
+  "" talented people who want to encouragement to build,and regular feedback.,"physical, emotional, financial,",tools and workspaces to
+  "" grow and create a brighter skillsets as careers evolve.,,and social wellbeing.,facilitate collaboration
+  "" wellbeing ,Roots
+  develop together with our employees to create  environment,The tree is strongly grounded
+  a brighter future. This is encapsulated in our "purpose  behaviors and values."
+  "" Trunk
+  employee promise ‘let’s grow together’. The trunk is our base and
+  "" connects everything we do with
+  "" our purpose. It captures our overarching
+  "" people promise: ‘let’s grow together’.
+  "" Branches
+  "Developed in collaboration with our employees  ‘let’s grow" Each branch represents our five
+  together’ is an important part of who we are. It calls on all of moments that matter.
+  us to play an active role in embracing future challenges and Leaves
+  "" The leaves represent the essential
+  opportunities and supporting lifelong learning and growth. touch points that Zurich employees have
+  "" told us are important to them
+  We have achieved this through:  29%,27%,23%
+  – Introducing global guidelines for our hybrid working model (used across  ,,23%
+  industries to refer to a mix of office/remote working) to reinforce DEIB practices  ,,
+  and maintain an inclusive work environment.  ,,
+  – Ensuring a culture of global collaboration through shaping a common agenda  ,,
+  on DEIB across functions and markets; supporting our employee resource  ,,
+  "groups (ERGs)  employee-led associations which provide personal and" ,,,
+  professional support and opportunities for networking.  2021,2020,2019
+  ""  2021,2020,2019
+  Read more:  ,,
+  DEIB Our organizational footprint ,,
+  "" 2127%61% eNPS Participation,,cultural transformation.”
+  "" score rate,,
+  "" 2671%% +49 81%,,Schöpe recognizes the importance of regular conversations with the works
+  "" 61% ,,"council and the first cohort of employees, who in 2018 helped to create a six-point"
+  April 2021  ,,
+  October 2021  ,,leadership model and share the strategy with colleagues. These employees
+  April 2021 11% ,,"explained that strategy and culture had to be based on leadership, trust in people"
+  14%April 2021 2181% eNPS Participation,,"and recognition, establishing these elements as a benchmark for testing the"
+  "" 29% ,,
+  "" 2681%11% score rate,,new strategy.
+  "" 58% ,,
+  "" 28% 61%+49 83%,,"In 2022, the team in Germany is aiming to continue to listen to what employees"
+  ""  ,,"have to say and demonstrate authentic leadership. In this way, they seek to build a"
+  "" 61% ,,
+  July 2020  ,,stable working environment to which everyone can contribute.
+  April 2021  ,,
+  July 2020 Participation 13%July 2020 10% 2107% eNPS score rate,,What’s next
+  "" 29% ,,
+  "" 627%% 210+52 84%,,We aim to provide more ways for employees to give feedback as we continue
+  "" 59% ,,
+  6227%Promoters Passives Detractors % ,,"to listen and act. In this way, we can provide a more personalized and diverse"
+  Promoters Passives Detractors 62% ,,"experience to our employees, in line with our employee value proposition."
+  Promoters Passives Detractors ,,
+  Sourcing  "Our approach Embedding sustainability into our supply chain In June 2021, we launched a Supplier Code of",,We aim to work with suppliers to address any areas that fall short of expectations and to agree contractual clauses to anchor our standards. This ensures an ongoing focus on sustainability for,,,,,Clear expectations
+  ""  "Conduct1 which sets out clear environmental,",,"the benefit of Zurich, our customers and society",,,,,
+  as a whole. We take sustainability seriously: where sustainably . "social and ethical expectations for our suppliers, globally. The supplier expectations are based upon practices that we have already adopted within our own operations. By establishing this as a benchmark for our suppliers, we aim to use our influence as",,"engagement fails, and suppliers cannot, or decline to, align their practices with the minimum standards we will review the relationship and consider phasing it out to uphold our commitment to doing the",,,,,"for suppliers.Launching our Supplier Code of Conduct has enabled us to establish and communicate clear expectations for suppliers across key environmental,"
+  ""  "Alliance’s overall proactive approach,",
+  – Senegal in the North West; Kenya and South  ,A reminder about the value
+  ""  members continued to progress on our,
+  "Sudan in the North East; and Mozambique  Malawi" Additional progress in 2021,,of flood resilience investment
+  ""  community programs in 2021. The,
+  "and Zimbabwe in the South East. In Latin America " Increasing funding in the right places,Alliance continued its flood resilience,The Alliance is built around a model which puts
+  "additional work has started in a new state in Mexico " ,,
+  "" Climate change adaptation and disaster risk engagement throughout the,people at the center of the decision-making
+  adding to new work in Bolivia and expansion in Peru  ,
+  "" reduction receive insufficient financing. Funding "pandemic, keeping all of the",process. Alliance members use the Flood
+  with new partners (such as the Swiss Development  ,
+  "" for global adaptation reached USD 30 billion in programs running and maintaining,Resilience Measurement for Communities tool and
+  "Corporation). In Asia  the program now operates" ,,
+  "" "2017/2018  according to the Alliance’s ‘At What",its focus on flood resilience. The,participatory processes to ensure communities are
+  in Vietnam.  ,
+  "" "Cost’ report  published in mid-2020. That figure is",Alliance’s ability to identify ways,able to prioritize the actions and investments that
+  "During 2021  Alliance members established programs" much less than the USD 50 billion pledged annually,to strengthen resilience against,"affect them. They convene communities, local and"
+  QA with "Climate change mitigation   or adaptation? Adaptation is very important in addition to mitigation. I think we talk a lot about mitigation, and I agree it’s",,,,How do you get local  communities involved? We work together with the community to analyze strengths and weaknesses and then decide,,,,"What changes would you like  to see in the way flooding is addressed?We need to make sure a fair share of adaptation money, in addition to mitigation investments, is"
+  "" absolutely critical that we hit the 1.5°C mark as closely ,,,"together with them on a realistic, feasible action",,,,reaching this local level – especially those places that
+  Michael Szönyi as possible. But let’s face realities: those that are the most vulnerable aren’t waiting for the climate crisis to hit them. Many of them are already in the climate crisis. And even a 1.5°C-warmer world is a world with ,,,"plan and practical interventions. Zurich is one of the signatories to the UN principles of locally led adaptation, which we signed at the end of 2020. It’s about ensuring action is devolved to the local level.",,,,"need it most. Everybody can be affected by flooding but often there’s a lack of awareness in terms of the needs. Usually, the big action happens where there’s a lot of valuable assets: for example, hotels along"
+  "protection of people  too  is now slowly gaining traction.resilience program and chairs the Foundation and Zurich taking very active roles in to help develop smart climate change adaptation",
+  shaping and contributing to Alliance operations. programs on the ground. 
+  management committee of the I’m also responsible for making sure there’s a good 
+  "Zurich Flood Resilience Alliance  link between Zurich’s business and the Alliance  so What is the Alliance’s" 
+  "(‘the Alliance’)  a group of partners sourcing expertise from within the business that can approach to flood resilience?" 
+  support the Alliance or helping the business learn 
+  "from the humanitarian  NGO  private from the Alliance’s findings.Resilience is a really rich and diverse concept, and",
+  and research sectors. The Alliance you can do so many things with it. We think about 
+  "resilience more broadly  so beyond physical and" 
+  has programs in 23 countries around In what regions is the Alliance active? financial capital that can be lost in flooding: for 
+  "the world and is indirectly funded The Alliance is globally active. Our programs are example  buildings destroyed  or livelihood lost.",
+  "by Zurich through the Z Zurich mostly in developing countries and focus on We also consider human capital  such as knowledge ",Many of the
+  some of the most vulnerable populations in Latin beliefs and awareness of flooding. Then we look 
+  "Foundation  a charitable foundation. America (e.g.  Peru, Bolivia), in Southeast Asia (e.g., at social capital, that is, how a community hangs",most vulnerable
+  "Bangladesh  Nepal  Vietnam) and most recently",
+  "What does your job entail? together and how well they communicate. Finally " 
+  "are already in  I have the overall responsibility for the Alliance we expanded to various parts of Africa. However  anybody can be affected by flooding  so we also do we incorporate natural capital into our approach: the question of whether we work with or against nature.",
+  ""  ,,2020 change,Target,Target,Employee fundraising and volunteering 2020 figures1 2,,,
+  "" Unit of 2019,,relative to,reduction,reduction,,,,
+  Key performance indicator measurement (base year) 1,2020,base year,2025,2029,,,,
+  ""  ,,,,,,2020,2019,Change
+  Absolute carbon emissions CO2e "164,346","66,708",(59%),50%,70%,Fundraising and donations (USD millions)3,2.5,2.3,10%
+  Absolute reduction in all operational emissions (metric tons) ,,,,,,,,
+  ""  ,,,,,Total time volunteered by workforce (business hours),"38,830","129,702",(70%)
+  Scope 1 + 2 emissions CO2e "49,042","27,714",(43%),55%,80%,,,,
+  ""  ,,,,,of which skills-based hours,"19,485","31,463",(38%)
+  Reduction in emissions from the vehicle fleet and onsite heating as well as (metric tons) ,,,,,,,,
+  "from purchased electricity  heat and steam (e.g.  district heating)",,,,,,,Workforce actively volunteering (% of total headcount),9.3%,20.9%,(11.5)ppts
+  Scope 3 emissions CO2e "115,304","38,994",(66%),50%,65%,Charitable cash contributions 2021 figures,,,
+  "Reduction in operational emissions resulting from air  rental and rail" (metric tons),,,,,,,,,
+  "business travel  employee commuting  strategic data centers, printed",,,,,,,,2021,2020,Change
+  "paper and waste  as well as indirect energy impacts" ,,,,,,Total full year charitable cash contributions by Zurich,,,
+  ""  ,,,,,business units (USD millions)4,15.6,31.9,(104%)
+  1 Operational emissions include extrapolations to ensure 100 percent data coverage while details by categories are explained here: www.zurich.com/sustainability/sustainable-operations/our-environmental-kpis  ,,,,,,,,
+  ""  ,,,,,Total full year charitable cash contributions by Zurich,,,
+  Responsible investment key performance indicators  ,,,,,to Z Zurich Foundation (USD millions)5,43.8,42.7,3%
